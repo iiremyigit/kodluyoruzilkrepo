@@ -2,4 +2,4 @@
 Bu repo kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 
-![projefoto]<"https://www.hizliresim.com/fs6pe86][img]https://i.hizliresim.com/fs6pe86.png[/img][/url]" />
+![projefoto]([url=https://www.hizliresim.com/fs6pe86][img]https://i.hizliresim.com/fs6pe86.png[/img][/url])
